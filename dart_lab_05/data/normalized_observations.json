@@ -1,0 +1,34 @@
+[
+  {
+    "municipality": "Andes",
+    "year": 2025,
+    "crops": [
+      {
+        "name": "Coffee",
+        "plantedArea": 125.0
+      },
+      {
+        "name": "Plantain",
+        "plantedArea": 75.0
+      },
+      {
+        "name": "Avocado",
+        "plantedArea": 50.0
+      }
+    ]
+  },
+  {
+    "municipality": "La Mesa",
+    "year": 2024,
+    "crops": [
+      {
+        "name": "Cocoa",
+        "plantedArea": 20.0
+      },
+      {
+        "name": "Beans",
+        "plantedArea": 30.0
+      }
+    ]
+  }
+]

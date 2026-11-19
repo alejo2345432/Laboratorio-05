@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ORD-101",
+    "customerName": "Camila Restrepo",
+    "items": [
+      {"name": "Clean Code", "quantity": 1, "unitPrice": 45.0},
+      {"name": "Dart Apprentice", "quantity": 2, "unitPrice": 35.5}
+    ]
+  },
+  {
+    "id": "ORD-102",
+    "customerName": "Mateo Gomez",
+    "items": [
+      {"name": "Design Patterns", "quantity": 1, "unitPrice": 50.0}
+    ]
+  }
+]
